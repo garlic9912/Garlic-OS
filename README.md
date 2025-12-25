@@ -1,2 +1,2 @@
 # Garlic-OS
-my own Operating System
+毕业设计，尝试自己实现一个OS
